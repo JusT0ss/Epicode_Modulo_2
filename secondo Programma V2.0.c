@@ -1,3 +1,7 @@
+//poteva essere scritto sicuramente meglio , purtroppo ho bisogno di effettuare più prove e studiare un pò di più
+
+
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
